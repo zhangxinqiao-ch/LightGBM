@@ -10,6 +10,8 @@
 #include <memory>
 #include "log.h"
 
+
+
 class ThreadExceptionHelper {
 public:
   ThreadExceptionHelper() { 
